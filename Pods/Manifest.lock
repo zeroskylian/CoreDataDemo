@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (5.2.1)
+  - FluentDarkModeKit (0.5.2)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FluentDarkModeKit
+  - Kingfisher
+  - Moya
+  - Reusable
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FluentDarkModeKit
+    - Kingfisher
+    - Moya
+    - Reusable
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  FluentDarkModeKit: 78109bdbfb87c515543c0a52319da017c3843aae
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: a512dcde6e7d6e5b228fe461c9867e60e4bae5b3
+
+COCOAPODS: 1.9.3
